@@ -1,0 +1,10 @@
+name = input('Enter your name: ')
+age  = input('Enter you age: ')
+hobby = input('Enter your hobby: ')
+
+print('\nWELCOME!')
+print(f'HELLO {name}!')
+print(f'you are {age} years old')
+print(f'your hobby is {hobby}')
+print('Welcome to python programming')
+print('Nice to meet you!')
